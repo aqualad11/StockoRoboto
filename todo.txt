@@ -1,0 +1,12 @@
+TODO:
+- Add webscraper to get most active stocks
+- Finish Alpaca Service
+- Learn and integrate Alpaca's StreamConn 
+- Do more Research for Strategies and add them to test_strats.py
+- Make trading strategies more modular 
+- Make better strategy tester with new trading strategies
+
+InProgress:
+
+DONE:
+
