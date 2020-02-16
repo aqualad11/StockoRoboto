@@ -1,5 +1,7 @@
 import sys
 sys.path.append('../src')
+sys.path.append('../webscrapers')
+import top_stocks as ts
 import alpaca_service as alp
 from collections import deque
 
